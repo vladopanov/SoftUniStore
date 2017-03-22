@@ -1,0 +1,7 @@
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb

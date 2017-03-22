@@ -1,0 +1,10 @@
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleMVC\bin\Debug\Resources\Pages\404.html
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleMVC\bin\Debug\Resources\Pages\500.html
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleMVC\bin\Debug\SimpleMVC.dll
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleMVC\bin\Debug\SimpleMVC.pdb
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleMVC\bin\Debug\SimpleHttpServer.dll
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleMVC\bin\Debug\SimpleHttpServer.pdb
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleMVC\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleMVC\obj\Debug\SimpleMVC.dll
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SimpleMVC\obj\Debug\SimpleMVC.pdb

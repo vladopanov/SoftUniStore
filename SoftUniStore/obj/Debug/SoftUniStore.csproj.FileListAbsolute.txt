@@ -1,0 +1,17 @@
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\Resources\Pages\404.html
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\Resources\Pages\500.html
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\SoftUniStore.exe.config
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\SoftUniStore.exe
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\SoftUniStore.pdb
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\EntityFramework.dll
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\SimpleHttpServer.dll
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\SimpleMVC.dll
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\SimpleHttpServer.pdb
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\SimpleMVC.pdb
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\EntityFramework.xml
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\obj\Debug\SoftUniStore.csprojResolveAssemblyReference.cache
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\obj\Debug\SoftUniStore.exe
+C:\Users\vlado\Documents\Visual Studio 2017\Projects\SoftUniStore\SoftUniStore\obj\Debug\SoftUniStore.pdb
